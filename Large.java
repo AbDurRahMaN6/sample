@@ -1,6 +1,6 @@
 public class Large {
     public static void main(String[] args) {
-        int n1 = 4, n2= 10, n3= 7, n4=100;
+        int n1 = 14, n2= 50, n3= 7, n4=570;
         getLargest ( n1,  n2, n3, n4);
     }
 
